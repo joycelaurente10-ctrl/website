@@ -1,4 +1,4 @@
----
+--Download & Mass chpater update: when downloading and updating chapter and i exit the app to go in another app like facebook, the download progress and update chapter progress suddenly stop. Please fix this-
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
